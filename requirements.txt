@@ -1,0 +1,5 @@
+python-dotenv
+azure-storage-blob
+azure-identity
+azure.ai.formrecognizer
+openai==0.28.1
